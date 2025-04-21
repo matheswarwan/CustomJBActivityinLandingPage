@@ -17,10 +17,11 @@ Redirect to: https://mc-yfyyj2sjhsjhkwc1s8w4zrxx4.pub.sfmc-content.com/pecgailce
 
 5. similarly, have other files as well available..
 
+```json
 var redirectUrls = {
     'config.json' : 'https://mc-yfyyj2sjhsjhkwc1s8w4zrxx4.pub.sfmc-content.com/pecgailcewe',
     'customActivity.js' : 'https://mc-yfyyj2sjhsjhkwc1s8w4zrxx4.pub.sfmc-content.com/tvjeffdlbr4',
     'jquery.min.js' : 'https://mc-yfyyj2sjhsjhkwc1s8w4zrxx4.pub.sfmc-content.com/cquiaqnf2r2',
     'require.js' : 'https://mc-yfyyj2sjhsjhkwc1s8w4zrxx4.pub.sfmc-content.com/q2dt4ukkvz0',
     'postmonger.js' : 'https://mc-yfyyj2sjhsjhkwc1s8w4zrxx4.pub.sfmc-content.com/4ly1prpqabw'
-}
+}```
